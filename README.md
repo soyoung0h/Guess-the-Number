@@ -1,2 +1,2 @@
 # Guess-the-Number
-Hello, I'm So Young. A formal marketing student and current business analyst student who has passion in business and data analysis. I want to help business make meaningful insight out of data. One interesting fact about me is that I love the color blue
+This is just a simple Python practice that I initiated, more like a fun little game rather than a formal project. Here, while, if, elif, and else statements were used to create a loop that helps the player guess a random number generated. Score will be deducted each time the player gets the guess wrong.
